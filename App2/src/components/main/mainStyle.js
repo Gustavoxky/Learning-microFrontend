@@ -1,8 +1,7 @@
 import styled from "styled-components";
 
-export const BodySC = styled.div`
+export const MainSC = styled.div`
     width: 100vw;
     min-height: 450px;
-    background-color: red;
 
 `

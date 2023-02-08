@@ -1,13 +1,15 @@
 import React from "react";
 import Footer from "../../App1/src/component/footer";
 import Header from "../../App1/src/component/header";
-import Body from "./components/body";
+import Main from "./components/main";
+
+import './App.css'
 
 const App = () => {
   return (
     <>
         <Header/>
-        <Body/>
+        <Main/>
         <Footer/>
     </>
   )

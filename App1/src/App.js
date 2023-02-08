@@ -1,15 +1,16 @@
 import React from "react";
-import Body from "./component/body";
+import Main from "./component/main";
 import Footer from "./component/footer";
 import Header from "./component/header/index";
 
+import './App.css'
 // const RemoteApp = React.lazy(() => import("App2/App"));
 
 const App = () => {
   return (
     <>
       <Header/>  
-      <Body/>
+      <Main/>
       <Footer/>
 
       {/* <Suspense fallback={"loading..."}>
