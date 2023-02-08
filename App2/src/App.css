@@ -1,4 +1,7 @@
 body {
     margin: 0;
-    background-color: #3d3c42;
+    background-color: #040d9491;
+    background-image: url('../../App1/src/assets/city.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
 }

@@ -1,5 +1,10 @@
 body {
+    align-items: center;
     margin: 0;
     display: flex;
-    background-color: #231932;
+    background-image: url('./assets/back.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* background-color: #240453b0; */
 }
