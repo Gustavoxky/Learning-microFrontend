@@ -6,6 +6,7 @@ export const HeaderSC = styled.div`
     background-color: #231932; 
 `
 export const MenuSC = styled.ul`
+    margin: 0;
     display: flex;
     justify-content: end;
     align-items: center;
@@ -15,7 +16,6 @@ export const MenuSC = styled.ul`
 
 export const MenuItemSC = styled.li`
     display: inline-flex;
-    margin-top: 10px;
     color: #fff;
     font-size: 20px;
     font-family: Roboto, sans-serif;
