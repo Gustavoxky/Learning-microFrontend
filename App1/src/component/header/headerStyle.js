@@ -28,7 +28,7 @@ export const LinkSC = styled.a`
     display: flex;
     flex-direction: column;
     text-decoration: none;
-    color: #007bfd;
+    color: #291;
     
 `
 export const LineSC = styled.hr`

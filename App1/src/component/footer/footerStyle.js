@@ -8,12 +8,13 @@ export const FooterSC = styled.div`
     bottom: 0;
     width: 100vw;
     height: 50px;
-    background-color: black;
+    background-color: rgba(100, 100, 100, 0.5); 
+;
     
 `
 
 export const CopSC = styled.span`
-    color: #fff;
+    color: #000;
     font-family: 'Roboto', sans-serif;
     font-size: 10px;
     margin: 0;
