@@ -8,6 +8,12 @@
     "build": "webpack --mode production"
   },
   "dependencies": {
+    "@react-three/drei": "9.36.0",
+    "@react-three/postprocessing": "2.7.0",
+    "@react-three/rapier": "0.8.2",
+    "react-scripts": "5.0.1",
+    "@react-three/fiber": "^8.11.0",
+    "three": "^0.149.0",
     "@types/jest": "^29.4.0",
     "@types/node": "^18.11.19",
     "@types/react": "^18.0.27",
